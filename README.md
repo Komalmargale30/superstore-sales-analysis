@@ -182,7 +182,7 @@ superstore-sales-analysis/
 
 ## Komal Margale
 
-Aspiring Data Analyst | Python Enthusiast 
+Data Analyst | Python Enthusiast 
 
 ---
 
