@@ -116,7 +116,7 @@ Compared sales across different shipping methods.
 ---
 
 ## Top Products Analysis
-![Top Products](/Screenshot 2026-05-03 205630.png)
+![Top Products](images/Screenshot 2026-05-03 205630.png)
 
 ---
 
@@ -182,7 +182,7 @@ superstore-sales-analysis/
 
 ## Komal Margale
 
-Aspiring Data Analyst | Python Enthusiast | UI/UX Designer
+Aspiring Data Analyst | Python Enthusiast 
 
 ---
 
