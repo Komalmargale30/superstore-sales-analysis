@@ -116,7 +116,7 @@ Compared sales across different shipping methods.
 ---
 
 ## Top Products Analysis
-![Top Products](images/top-products.png)
+![Top Products](/Screenshot 2026-05-03 205630.png)
 
 ---
 
